@@ -28,10 +28,6 @@
 
 
 ## 🌱 현재 배우고 있는 것         
-<img width="2048" height="2806" alt="image" src="https://github.com/user-attachments/assets/cb792f81-2141-41c9-ba47-46cf041672aa" />
-
-<img width="2048" height="2794" alt="image" src="https://github.com/user-attachments/assets/f1e4cd1c-61c4-4896-a361-aff394cff8e0" />
-
 
 
 
